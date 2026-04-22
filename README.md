@@ -26,7 +26,7 @@ Make both Python scripts executable:
 
 ```bash
 chmod +x rdxtor.py
-chmod +x rdxtorantidot.py
+chmod +x rdxtoranti.py
 ```
 
 ---
