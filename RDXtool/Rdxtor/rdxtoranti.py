@@ -5,7 +5,6 @@ text = pyfiglet.figlet_format('RDx-Tor-antidot')
 print(text)
 
 print('---------------------')
-print('do this process inverse and save it')
 
 i = input('want to re-enable your network from tor {y o Y}-no option:')
 
