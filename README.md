@@ -74,7 +74,7 @@ Manually configure the following in your proxychains config file:
 After finished using Tor, run the cleanup script:
 
 ```bash
-python3 rdxtorantidot.py
+python3 rdxtoranti.py
 ```
 
 **What this does:**
